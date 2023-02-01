@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.logo{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #008000;
+  text-align: center;
+}
+p{
+  color: white;
+}
+.footer{
+  background-color:  rgb(16, 58, 71);
+   bottom:0;
+}
+h3{
+  color: white;
+}
+ul{
+  list-style: none;
+}
+li{
+	color:white
+}
+
+li a{
+  text-decoration:none;
+  color: white;
+}
+.far{
+  margin-right: 1rem;
+}
+.footer  {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+.footerl li a {
+    font-size: 2rem;
+}

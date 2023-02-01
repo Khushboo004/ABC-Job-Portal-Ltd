@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+.reg {
+	display: inline-block;
+	background-color: rgb(148, 78, 78);
+	color: black;
+	padding: 1rem 2rem;
+	border: 1px solid transparent;
+	font-weight: 500;
+	border-radius: 2rem;
+}
+
+.reg:hover {
+	background: rgb(33, 79, 95);
+	color: white;
+	border-color: white;
+}
+
+.my-job {
+	background-color: rgb(51, 105, 122);
+	padding: 2rem;
+	border-radius: 2rem;
+	height: 270px;
+	/* position: relative; */
+	margin: 10px;
+}
+
+.arrow {
+	position: relative;
+}
+
+span {
+	position: absolute;
+	top: 50%;
+	left: 80%;
+}
+
+.h1 {
+	font-weight: bold;
+	color: #deb887;
+}
+
+.navbar-nav a {
+	color: rgb(255, 223, 223);
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.navbar-nav a:hover {
+	transition: all 500ms ease;
+	color: rgb(165, 42, 42);
+}
+
+.small {
+	color: black;
+	font-size: 25px;
+}
+.content {
+  width: 10%;
+  max-width: 750px;
+}
+
+
+
+/* .course {
+    background-color: rgb(42, 44, 105);
+    text-align: center;
+    border: 1px solid transparent;
+    box-shadow: 1rem 1rem 1rem 0rem rgb(32, 23, 23);
+
+}
+
+.course:hover {
+    background: transparent;
+    border: 2px solid rgb(42, 44, 105);
+    color: black;
+}
+
+.course-info {
+    padding: 2rem;
+
+}
+
+.course-info p {
+    margin: 1rem 0 2rem;
+    font-size: 0.8rem;
+} */

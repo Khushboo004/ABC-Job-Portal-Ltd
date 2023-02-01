@@ -1,0 +1,75 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.5;
+	color: black;
+	background-color: rgb(151, 211, 229);
+}
+
+.view {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+
+.view a:hover {
+	color: white;
+}
+
+.carbox {
+	padding: 10px 5px;
+	margin-bottom: 1rem;
+	border-radius: 5px;
+	background-color: #E8ECEF;
+}
+
+.carbox h3 {
+	font-size: 25px;
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+.carbox p {
+	font-size: 20px;
+}
+
+.arrow {
+	position: relative;
+}
+
+.card {
+	height: 200px;
+	/* position: relative; */
+	margin: 10px;
+}
+
+span {
+	position: absolute;
+	top: 50%;
+	left: 80%;
+}
+
+.my-color {
+	background-color: #E8ECEF;
+	border: 1rem;
+}
+
+img {
+	width: 100%;
+	height: 400px;
+}
+
+.job {
+	position: relative;
+}
+
+.header {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+
+.view {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}

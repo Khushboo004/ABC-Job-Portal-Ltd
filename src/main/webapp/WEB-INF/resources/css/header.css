@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.logo {
+    padding-top: 1rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: aliceblue;
+
+}
+
+.navbar-nav a {
+    color: rgb(255, 223, 223);
+       font-size: 1.2rem;
+    font-weight: bold;
+}
+.navbar-nav a:hover {
+    transition: all 500ms ease;
+    color: rgb(165, 42, 42);
+}
+

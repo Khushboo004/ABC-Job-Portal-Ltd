@@ -1,0 +1,99 @@
+body {
+	color: black;
+}
+
+.view {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+
+.view a:hover {
+	color: white;
+}
+/*
+ 
+.arrow{
+  position: relative;
+}
+.card{
+  height: 200px;
+  position: relative;
+  margin: 10px;
+}
+span{
+  position: absolute;
+  top:50%;
+  left: 80%;
+}
+.my-color{
+  background-color: #E8ECEF;
+  border: 1rem;
+}
+img{
+  width: 100%;
+  height: 400px;
+}
+.job{
+  position: relative;
+}
+.header{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+}
+h1{
+  font-weight: bold;
+  color: #deb887;
+}
+.view{
+	text-decoration: none;
+	font-size: 20px;
+    color: black;
+
+} */
+/* h1{
+  color: #efed40;
+  text-align: center;
+}
+h2{
+  margin: 0;
+  padding: 0 0 20px;
+  color: #efed40;
+  text-align: center;
+}
+h3{
+  color: #efed40;
+  text-align: center;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group input[type="password"],
+.form-group input[type="email"]{
+  border: none;
+  border-bottom: 1px solid rgb(53, 45, 45);
+  background: transparent;
+  outline:none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+::placeholder{
+  color: rgba(255, 255, 255, 5);
+}
+.form-group input[type="submit"]{
+  border: none;
+  border: none;
+  outline: none;
+  height: 30px;
+  color: #262626;
+  font-size: 16px;
+  background: bolue;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.form-group input[type="submit"]:hover{
+  background:#e21a1a80;
+  color: #262626;
+} */
